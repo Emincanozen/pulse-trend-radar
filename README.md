@@ -7,8 +7,9 @@
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.2.4-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React 19](https://img.shields.io/badge/React-19.2.4-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Anthropic Claude](https://img.shields.io/badge/Anthropic-Claude%203.5-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://console.anthropic.com/)
-[![AetherOS Architecture](https://img.shields.io/badge/Architecture-AetherOS-4F46E5?style=for-the-badge)](https://github.com/)
+[![Anthropic Claude](https://img.shields.io/badge/Anthropic-Claude_Sonnet_4_%2F_Opus_4-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![AetherOS Architecture](https://img.shields.io/badge/Architecture-AetherOS-4F46E5?style=for-the-badge)](https://github.com/Emincanozen/aether-agent-suite)
+[![CI](https://github.com/Emincanozen/pulse-trend-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/Emincanozen/pulse-trend-radar/actions/workflows/ci.yml)
 [![License MIT](https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge)](LICENSE)
 
 <p align="center">
@@ -272,5 +273,5 @@ To add another agent to your AetherOS suite:
 
 ## License & Credits
 
-Built with [AetherOS Architecture](https://github.com/) & [Next.js 16](https://nextjs.org/). Powered by Anthropic Claude, Apify, and Google Gemini.
+Built with [AetherOS Architecture](https://github.com/Emincanozen/aether-agent-suite) & [Next.js 16](https://nextjs.org/). Powered by Anthropic Claude, Apify, and Google Gemini.
 Released under the MIT License.
